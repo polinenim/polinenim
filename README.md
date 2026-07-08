@@ -1,8 +1,12 @@
 <h1 align="center">Hi, I'm Polineni Mahesh 👋</h1>
-<h3 align="center">Master’s Student in Software, Web & Cloud @ Tampere University, Finland</h3>
+<h3 align="center">Master’s Student in Software, Web & Cloud @ Tampere University, Finland 🇫🇮</h3>
 
 <p align="center">
-  Passionate about building scalable software, cloud-native applications, and AI-powered solutions.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6E57E0&height=220&section=header&text=Welcome%20to%20my%20GitHub%20Profile!&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header banner" />
+</p>
+
+<p align="center">
+  Passionate about building scalable software, cloud-native applications, and AI-powered solutions 🤖☁️
 </p>
 
 <p align="center">
@@ -16,9 +20,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a Master's student in **Software, Web & Cloud** at **Tampere University, Finland**, passionate about building impactful software solutions and exploring emerging technologies in **Artificial Intelligence** and **Cloud Computing**.
+I'm a Master's student in **Software, Web & Cloud** at **Tampere University, Finland**, passionate about building impactful software solutions and exploring emerging technologies in **Artificial Intelligence**, **Cloud Computing**, and **Web Development** 🚀
 
-My experience includes developing web applications, working with databases and REST APIs, and applying cloud and machine learning concepts through academic and personal projects. These experiences have strengthened my software development, analytical thinking, and collaborative problem-solving skills.
+My experience includes developing web applications, working with databases and REST APIs, and applying cloud and machine learning concepts through academic and personal projects. These experiences have strengthened my problem-solving, teamwork, and software engineering skills 💡
 
 Currently, I'm expanding my expertise in **Microsoft Azure**, **Generative AI**, and **Large Language Models (LLMs)** while continuously improving my modern software engineering practices.
 
@@ -31,21 +35,21 @@ I'm always excited to learn new technologies, collaborate on innovative projects
 
 ## 🚀 Tech Stack
 
-### Languages
+### Languages 💻
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Web & Frameworks
+### Web & Frameworks 🌐
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Cloud, Tools & Databases
+### Cloud, Tools & Databases ☁️🛠️
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -59,15 +63,15 @@ I'm always excited to learn new technologies, collaborate on innovative projects
 
 > Replace these with your real projects and links.
 
-- **Project 1 – AI-Powered App**  
+- **Project 1 – AI-Powered App 🤖**  
   Brief one-line description of what it does and what problem it solves.  
   🔗 [GitHub Repo](https://github.com/polinenim/project-1)
 
-- **Project 2 – Cloud Web Application**  
+- **Project 2 – Cloud Web Application ☁️**  
   Brief one-line description with your key contribution.  
   🔗 [GitHub Repo](https://github.com/polinenim/project-2)
 
-- **Project 3 – Full Stack Platform**  
+- **Project 3 – Full Stack Platform ⚙️**  
   Brief one-line description with tech stack used.  
   🔗 [GitHub Repo](https://github.com/polinenim/project-3)
 
@@ -88,10 +92,10 @@ I'm always excited to learn new technologies, collaborate on innovative projects
 
 ## 🌱 Currently Learning
 
-- Microsoft Azure (Cloud Services & Deployment)
-- Generative AI Applications
-- LLM-based Systems and Prompt Engineering
-- Scalable Software Architecture
+- Microsoft Azure (Cloud Services & Deployment) ☁️
+- Generative AI Applications 🧠
+- LLM-based Systems and Prompt Engineering ✨
+- Scalable Software Architecture 🏗️
 
 ---
 
@@ -104,5 +108,5 @@ I'm always excited to learn new technologies, collaborate on innovative projects
 ---
 
 <p align="center">
-  Thanks for visiting my profile! ⭐
+  Thanks for visiting my profile! ⭐✨
 </p>
