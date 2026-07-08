@@ -2,54 +2,54 @@
 <h3 align="center">Master’s Student in Software, Web & Cloud @ Tampere University, Finland 🇫🇮</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6E57E0&height=220&section=header&text=Welcome%20to%20my%20GitHub%20Profile!&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header banner" />
+  <a href="mailto:maheshpolineni1008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-maheshpolineni1008%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/polinenim">
+    <img src="https://img.shields.io/badge/GitHub-polinenim-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/polineni-mahesh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Polineni%20Mahesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  Passionate about building scalable software, cloud-native applications, and AI-powered solutions 🤖☁️
-</p>
-
-<p align="center">
-  <a href="mailto:maheshpolineni1008@gmail.com"><img src="https://img.shields.io/badge/Email-maheshpolineni1008%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/polinenim"><img src="https://img.shields.io/badge/GitHub-polinenim-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR-TWITTER-USERNAME"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  Passionate about building scalable software, cloud-native systems, and AI-powered applications 🤖☁️
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Master's student in **Software, Web & Cloud** at **Tampere University, Finland**, passionate about building impactful software solutions and exploring emerging technologies in **Artificial Intelligence**, **Cloud Computing**, and **Web Development** 🚀
+I’m a Master's student in **Software, Web & Cloud** at **Tampere University, Finland**.  
+I enjoy building robust full-stack applications, designing backend APIs, and exploring modern AI + cloud engineering workflows.
 
-My experience includes developing web applications, working with databases and REST APIs, and applying cloud and machine learning concepts through academic and personal projects. These experiences have strengthened my problem-solving, teamwork, and software engineering skills 💡
+- 🎓 Master’s in Software, Web & Cloud — Tampere University
+- ☁️ Focused on **Microsoft Azure**, cloud-native development, and deployment practices
+- 🧠 Exploring **Generative AI** and **LLM-based systems**
+- 🛠️ Interested in scalable architecture, clean code, and real-world product impact
 
-Currently, I'm expanding my expertise in **Microsoft Azure**, **Generative AI**, and **Large Language Models (LLMs)** while continuously improving my modern software engineering practices.
-
-I'm always excited to learn new technologies, collaborate on innovative projects, and apply my skills to solve real-world problems.
-
-📍 **Tampere, Finland**  
-📫 **maheshpolineni1008@gmail.com**
+📍 Tampere, Finland  
+📫 maheshpolineni1008@gmail.com
 
 ---
 
 ## 🚀 Tech Stack
 
-### Languages 💻
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Web & Frameworks 🌐
+### Web & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-4B5563?style=flat)
 
-### Cloud, Tools & Databases ☁️🛠️
+### Cloud, Tools & Databases
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -59,54 +59,44 @@ I'm always excited to learn new technologies, collaborate on innovative projects
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Work
 
-> Replace these with your real projects and links.
-
-- **Project 1 – AI-Powered App 🤖**  
-  Brief one-line description of what it does and what problem it solves.  
-  🔗 [GitHub Repo](https://github.com/polinenim/project-1)
-
-- **Project 2 – Cloud Web Application ☁️**  
-  Brief one-line description with your key contribution.  
-  🔗 [GitHub Repo](https://github.com/polinenim/project-2)
-
-- **Project 3 – Full Stack Platform ⚙️**  
-  Brief one-line description with tech stack used.  
-  🔗 [GitHub Repo](https://github.com/polinenim/project-3)
+> I’m currently curating my best projects for this section.  
+> In the meantime, feel free to explore my repositories here:  
+> 🔗 **https://github.com/polinenim?tab=repositories**
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=polinenim&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=polinenim&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=polinenim&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=polinenim&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polinenim&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polinenim&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Microsoft Azure (Cloud Services & Deployment) ☁️
-- Generative AI Applications 🧠
-- LLM-based Systems and Prompt Engineering ✨
-- Scalable Software Architecture 🏗️
+- Microsoft Azure (Cloud Services, Architecture, Deployment)
+- Generative AI application development
+- LLM workflows and prompt engineering
+- Scalable software architecture patterns
 
 ---
 
 ## 🤝 Let’s Connect
 
 - 📧 Email: **maheshpolineni1008@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME**
-- 🐦 Twitter/X: **https://twitter.com/YOUR-TWITTER-USERNAME**
+- 💼 LinkedIn: **https://www.linkedin.com/in/polineni-mahesh/**
+- 🧑‍💻 GitHub: **https://github.com/polinenim**
 
 ---
 
 <p align="center">
-  Thanks for visiting my profile! ⭐✨
+  Thanks for visiting my profile! ⭐
 </p>
