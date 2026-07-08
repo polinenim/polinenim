@@ -1,67 +1,108 @@
-<img src="https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630">
+<h1 align="center">Hi, I'm Polineni Mahesh 👋</h1>
+<h3 align="center">Master’s Student in Software, Web & Cloud @ Tampere University, Finland</h3>
 
-<h1 align="center"> Hi, I'm Polineni Mahesh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<h3 align="center">I'm a Software and Web Developer from India ❤</h3>
 <p align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
- <br/>
+  Passionate about building scalable software, cloud-native applications, and AI-powered solutions.
+</p>
 
-<div align="center">
-<h3> 🤝🏻 Connect With Me @ </h3>
+<p align="center">
+  <a href="mailto:maheshpolineni1008@gmail.com"><img src="https://img.shields.io/badge/Email-maheshpolineni1008%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/polinenim"><img src="https://img.shields.io/badge/GitHub-polinenim-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/YOUR-TWITTER-USERNAME"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
-[![Github](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)](https://github.com/polinenim)
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail)](mailto:maheshpolineni1008@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter)](https://twitter.com/Mahesh62338191)
+---
 
-</div>
+## 👨‍💻 About Me
 
-<br/>
+I'm a Master's student in **Software, Web & Cloud** at **Tampere University, Finland**, passionate about building impactful software solutions and exploring emerging technologies in **Artificial Intelligence** and **Cloud Computing**.
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
- 
-<img width="50%" align="right" alt="Github Image" src="https://github.githubassets.com/images/modules/site/social-cards/pricing.png" />
+My experience includes developing web applications, working with databases and REST APIs, and applying cloud and machine learning concepts through academic and personal projects. These experiences have strengthened my software development, analytical thinking, and collaborative problem-solving skills.
 
-- 👀 I’m interested in coding and learning new things related to technologies 
-- 🌱 I’m currently pursuing a Computer Science and Engineering at Madanapalle Institute of Technology and Science, India.
-- 📫 How to reach me maheshpolineni1008@gmail.com
+Currently, I'm expanding my expertise in **Microsoft Azure**, **Generative AI**, and **Large Language Models (LLMs)** while continuously improving my modern software engineering practices.
 
+I'm always excited to learn new technologies, collaborate on innovative projects, and apply my skills to solve real-world problems.
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
+📍 **Tampere, Finland**  
+📫 **maheshpolineni1008@gmail.com**
 
+---
 
-I'm Polineni Mahesh, and I'm from Rajampet. I'm recently graduate with Bachelor of Technology in the Computer Science and Engineering stream at Madanapalle Institute of Technology and Science. I studied intermidiate at sri chaitanya juniour college in Tirupati.
- 
-Achievements and defeats are inextricably related to successes and setbacks. Anyone who accomplishes something today has missed something the day before.
-My family has always been a source of inspiration and motivation for me, especially my mother. That is why I am today a self-motivated, empowered, and committed person.
-All this success, hard work, dedication, and determination are truly credited to my parents who had made this possible for me.
+## 🚀 Tech Stack
 
-<!---
-polinenim/polinenim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
-## 🏆 Github Status
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<br/>
-       
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=polinenim&show_icons=true&locale=en" alt="polinenim" /></p>
+### Web & Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=polinenim&" alt="polinenim" /></p>
+### Cloud, Tools & Databases
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-  
-</a>
+---
 
-<br/>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 📌 Featured Projects
 
-#
+> Replace these with your real projects and links.
 
-![GitH𝚞𝚋 G𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=polinenim&theme=react-dark&hide_border=true&area=true)
+- **Project 1 – AI-Powered App**  
+  Brief one-line description of what it does and what problem it solves.  
+  🔗 [GitHub Repo](https://github.com/polinenim/project-1)
 
-#
+- **Project 2 – Cloud Web Application**  
+  Brief one-line description with your key contribution.  
+  🔗 [GitHub Repo](https://github.com/polinenim/project-2)
 
-<br/>
+- **Project 3 – Full Stack Platform**  
+  Brief one-line description with tech stack used.  
+  🔗 [GitHub Repo](https://github.com/polinenim/project-3)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
-<div align="center">
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=polinenim&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=polinenim&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polinenim&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Microsoft Azure (Cloud Services & Deployment)
+- Generative AI Applications
+- LLM-based Systems and Prompt Engineering
+- Scalable Software Architecture
+
+---
+
+## 🤝 Let’s Connect
+
+- 📧 Email: **maheshpolineni1008@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME**
+- 🐦 Twitter/X: **https://twitter.com/YOUR-TWITTER-USERNAME**
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
