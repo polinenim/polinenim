@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Polineni Mahesh 👋</h1>
-<h3 align="center">Master’s Student in Software, Web & Cloud @ Tampere University, Finland 🇫🇮</h3>
+<h3 align="center">Master's Student in Software, Web & Cloud @ Tampere University, Finland 🇫🇮</h3>
 
 <p align="center">
   <a href="mailto:maheshpolineni1008@gmail.com">
@@ -21,10 +21,10 @@
 
 ## 👨‍💻 About Me
 
-I’m a Master's student in **Software, Web & Cloud** at **Tampere University, Finland**.  
+I'm a Master's student in **Software, Web & Cloud** at **Tampere University, Finland**.  
 I enjoy building robust full-stack applications, designing backend APIs, and exploring modern AI + cloud engineering workflows.
 
-- 🎓 Master’s in Software, Web & Cloud — Tampere University
+- 🎓 Master's in Software, Web & Cloud — Tampere University
 - ☁️ Focused on **Microsoft Azure**, cloud-native development, and deployment practices
 - 🧠 Exploring **Generative AI** and **LLM-based systems**
 - 🛠️ Interested in scalable architecture, clean code, and real-world product impact
@@ -38,12 +38,12 @@ I enjoy building robust full-stack applications, designing backend APIs, and exp
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34C26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=flat&logo=openai&logoColor=white)
 
-### Web & Backend
+### Web & Backend Basics
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
@@ -61,7 +61,7 @@ I enjoy building robust full-stack applications, designing backend APIs, and exp
 
 ## 📌 Featured Work
 
-> I’m currently curating my best projects for this section.  
+> I'm currently curating my best projects for this section.  
 > In the meantime, feel free to explore my repositories here:  
 > 🔗 **https://github.com/polinenim?tab=repositories**
 
@@ -89,7 +89,7 @@ I enjoy building robust full-stack applications, designing backend APIs, and exp
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 - 📧 Email: **maheshpolineni1008@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/polineni-mahesh/**
