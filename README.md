@@ -67,15 +67,13 @@ I enjoy building robust full-stack applications, designing backend APIs, and exp
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=polinenim&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" />
-  <img height="180" src="https://streak-stats.demolab.com?user=polinenim&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=polinenim&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=polinenim&theme=tokyonight" width="51%" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polinenim&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polinenim&layout=compact&theme=tokyonight" width="48%" />
 </p>
 ---
 
